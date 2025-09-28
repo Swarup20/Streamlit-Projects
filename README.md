@@ -5,7 +5,7 @@ Each app is inside its own folder and can be run independently.
 
 ## 📂 Projects
 
-### 1. 🎨 App (Demo)
+### 1. 🎨 App 
 - Folder: `App/`
 - A basic Streamlit app to demonstrate UI features.
 
